@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     "behave_django",
     # apps
     "apps.book",
+    "apps.product",
 ]
 
 MIDDLEWARE = [
