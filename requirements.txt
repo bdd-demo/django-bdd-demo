@@ -1,0 +1,15 @@
+﻿asgiref==3.7.2
+beautifulsoup4==4.12.3
+behave==1.2.6
+behave-django==1.4.0
+colorama==0.4.6
+Django==4.2
+djangorestframework==3.14.0
+parse==1.20.1
+parse-type==0.6.2
+pytz==2024.1
+six==1.16.0
+soupsieve==2.5
+sqlparse==0.4.4
+typing-extensions==4.9.0
+tzdata==2023.4
